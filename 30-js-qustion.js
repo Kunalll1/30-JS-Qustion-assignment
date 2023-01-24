@@ -21,7 +21,11 @@ let age = 21;
 // );
 
 // 03. Declare a varibale and assign string value to it and change all the string characters to capital letters using toUpperCase() method.
-let changeUpperCase =
+let string =
   "My name is Kunal, and I am currently learning Full Stack Web Development under the awesome teachers Hetash Sir and Anurage Sir. I love the way they explain the topics.";
 
-// console.log(changeUpperCase.toUpperCase()); OUTPUT:::: [MY NAME IS KUNAL, AND I AM CURRENTLY LEARNING FULL STACK WEB DEVELOPMENT UNDER THE AWESOME TEACHERS HETASH SIR AND ANURAGE SIR. I LOVE THE WAY THEY EXPLAIN THE TOPICS.]
+// console.log(string.toUpperCase()); OUTPUT:::: [MY NAME IS KUNAL, AND I AM CURRENTLY LEARNING FULL STACK WEB DEVELOPMENT UNDER THE AWESOME TEACHERS HETASH SIR AND ANURAGE SIR. I LOVE THE WAY THEY EXPLAIN THE TOPICS.]
+
+// 04. Declare a varibale and assign string value to it and check if the string contains a word Script using includes() method.
+
+// console.log(string.includes("Hetash")); OUTPUT:::: [true]
