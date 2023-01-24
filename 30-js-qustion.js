@@ -44,3 +44,9 @@ let string =
 //     'e', 'r', 's', ' ',
 //     ... 67 more items
 //   ] ]
+
+// 06. 'Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon' split the string at the comma and change it to an array.
+
+let companyName = "Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon";
+// console.log(companyName.split(",", 7));
+// OUTPUT:::: [[ 'Facebook', ' Google',' Microsoft', ' Apple', ' IBM',' Oracle',' Amazon' ] ]
