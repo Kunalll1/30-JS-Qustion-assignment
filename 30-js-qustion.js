@@ -29,3 +29,18 @@ let string =
 // 04. Declare a varibale and assign string value to it and check if the string contains a word Script using includes() method.
 
 // console.log(string.includes("Hetash")); OUTPUT:::: [true]
+
+// 05. Declare a varibale and assign string value to it and then split it into an array using split() method
+
+// console.log(string.split([])); OUTPUT:::: [ [
+//     'M', 'y', ' ', 'n', 'a', 'm', 'e', ' ', 'i', 's', ' ', 'K',
+//     'u', 'n', 'a', 'l', ',', ' ', 'a', 'n', 'd', ' ', 'I', ' ',
+//     'a', 'm', ' ', 'c', 'u', 'r', 'r', 'e', 'n', 't', 'l', 'y',
+//     ' ', 'l', 'e', 'a', 'r', 'n', 'i', 'n', 'g', ' ', 'F', 'u',
+//     'l', 'l', ' ', 'S', 't', 'a', 'c', 'k', ' ', 'W', 'e', 'b',
+//     ' ', 'D', 'e', 'v', 'e', 'l', 'o', 'p', 'm', 'e', 'n', 't',
+//     ' ', 'u', 'n', 'd', 'e', 'r', ' ', 't', 'h', 'e', ' ', 'a',
+//     'w', 'e', 's', 'o', 'm', 'e', ' ', 't', 'e', 'a', 'c', 'h',
+//     'e', 'r', 's', ' ',
+//     ... 67 more items
+//   ] ]
