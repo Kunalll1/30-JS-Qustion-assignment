@@ -49,4 +49,4 @@ let string =
 
 let companyName = "Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon";
 // console.log(companyName.split(",", 7));
-// OUTPUT:::: [[ 'Facebook', ' Google',' Microsoft', ' Apple', ' IBM',' Oracle',' Amazon' ] ]
+// OUTPUT:::: [[ 'Facebook', ' Google',' Microsoft', ' Apple', ' IBM',' Oracle',' Amazon' ]]
